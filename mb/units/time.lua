@@ -1,5 +1,5 @@
-local Unit = require "mb.units.unit"
-local Type = require "mb.units.type"
+local Unit = require "mb.units.base.unit"
+local Type = require "mb.units.base.type"
 
 --- Time units
 local Time = Type.new()
